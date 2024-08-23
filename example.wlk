@@ -67,3 +67,14 @@ object pepon {
 		return energia
 	}
 }
+
+/*object roque{
+	var ave = pepita
+
+	method ave() {
+		return ave
+}
+	method alimentar(alimento){
+
+	}
+}*/
